@@ -1,0 +1,6 @@
+name: CBBarrels
+version: 1.0
+description: Craftbook-like Barrels
+website: http://phanta.xyz
+main: io.github.phantamanta44.cbbarrels.CBBPlugin
+softdepend: [CraftBook]
